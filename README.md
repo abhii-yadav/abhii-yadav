@@ -19,7 +19,7 @@ I'm a passionate **Software Developer** with a strong interest in **Full-Stack D
 
 ## 📫 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yadav-6169a033b/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yadav2060/)  
 
 ---
 
